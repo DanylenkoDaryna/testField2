@@ -1,0 +1,40 @@
+
+Ssquid:S1854"7Remove this useless assignment to local variable "tr2".(ÅÂÎÃ8ı­ë˜•.
+Qsquid:S1854"5Remove this useless assignment to local variable "b".(úƒù¡8èÌ¯™•.
+¢%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'epam.MyOwnException', as it cannot be thrown from method's body.(‡ìŠ¯8˜Ò‡š•.
+Vsquid:S1143"5Remove this return statement from this finally block.(Ê†„Øÿÿÿÿÿ8Şó‡š•.
+h$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(Ê†„Øÿÿÿÿÿ8Şó‡š•.
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ú›œıÿÿÿÿ8ÙÇ¬š•.
+c$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(¸ºê©8˜Ò‡š•.
+Qsquid:S1854"5Remove this useless assignment to local variable "x".(¸ºê©8Âå‚š•.
+;squid:S1659"Declare "b" on a separate line.(µ·®8èÌ¯™•.
+Vsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÆØ™•.
+Fsquid:S1181"%Catch Exception instead of Throwable.(ÁŞòĞüÿÿÿÿ8¦³š•.
+Vsquid:S1854"5Remove this useless assignment to local variable "x".(Ê†„Øÿÿÿÿÿ8˜Ò‡š•.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¢Ô›¥ûÿÿÿÿ8ÿš°š•.
+Dsquid:S1481"(Remove this unused "tr2" local variable.(ÅÂÎÃ8ı­ë˜•.
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ş·¡Ä8„èº™•.
+Csquid:S1481"'Remove this unused "tr" local variable.(ªô­Î8Ìïä˜•.
+`squid:S2259"?A "NullPointerException" could be thrown; "s" is nullable here.(Ì¢ĞÓıÿÿÿÿ8èÌ¯™•.
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ˆÄ”®üÿÿÿÿ8˜Ò‡š•.
+Gsquid:S1481"&Remove this unused "y" local variable.(Ì¢ĞÓıÿÿÿÿ8èÌ¯™•.
+Vsquid:S1854"5Remove this useless assignment to local variable "a".(­ŞûÀøÿÿÿÿ8èÌ¯™•.
+Qsquid:S1854"5Remove this useless assignment to local variable "x".(¸ºê©8˜Ò‡š•.
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(àø¼Ïüÿÿÿÿ8ÑÏ©š•.
+¢%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'epam.MyOwnException', as it cannot be thrown from method's body.(ÂÅ¡˜8Âå‚š•.
+Qsquid:S1854"5Remove this useless assignment to local variable "c".(£Ğö­8èÌ¯™•.
+Vsquid:S1854"5Remove this useless assignment to local variable "x".(²Á²£ùÿÿÿÿ8Âå‚š•.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(®ÉõÖüÿÿÿÿ8ç¥®š•.
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ˆÄ”®üÿÿÿÿ8Âå‚š•.
+8squid:S1165"Make this "msg" field final.(­îøï8“õ¹š•.
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ8Õ–±š•.
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(—çç—8†Ëá™•.
+Rsquid:S1854"6Remove this useless assignment to local variable "tr".(ªô­Î8Ìïä˜•.
+;squid:S1659"Declare "c" on a separate line.(µ·®8èÌ¯™•.
+Qsquid:S1854"5Remove this useless assignment to local variable "b".(ÑŠµú8èÌ¯™•.
+c$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(¸ºê©8Âå‚š•.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(æËÒüÿÿÿÿ8ÑÏ©š•.
+Qsquid:S1854"5Remove this useless assignment to local variable "c".(ÑŠµú8èÌ¯™•.
+Vsquid:S1854"5Remove this useless assignment to local variable "y".(Ì¢ĞÓıÿÿÿÿ8èÌ¯™•.
+Bsquid:S1481"&Remove this unused "a" local variable.(µ·®8èÌ¯™•.
+[squid:S1161":Add the "@Override" annotation above this method signature(…—àğûÿÿÿÿ8ÙÇ¬š•.
